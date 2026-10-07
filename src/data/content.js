@@ -30,7 +30,7 @@ export const stats = [
 
 // Your bio. Each item in this list becomes its own paragraph.
 export const bio = [
-  `Nicole Frossard-Reis is a junior writer and social media team member at Her Campus, FSU chapter. Nicole — or as her little brother calls her, "Ni" — was born in Coral Springs in 2003. When she was 5 she moved to her family's home country, Brazil. As a good Brazilian, futebol, Formula 1 and pão de queijo are some of her passions.`,
+  `Nicole Frossard-Reis is a senior writer and social media team member at Her Campus, FSU chapter. Nicole — or as her little brother calls her, "Ni" — was born in Coral Springs in 2003. When she was 5 she moved to her family's home country, Brazil. As a good Brazilian, futebol, Formula 1 and pão de queijo are some of her passions.`,
   `Majoring in Media/Communications Studies, she received her Associate degree from Tallahassee State College in May 2025, and transferred to Florida State University to finish her Bachelor's degree in May 2027.`,
   `Nicole enjoys learning new things. She is fluent in English, Portuguese and Spanish, and entry level in Italian. Her goal is to pursue a career in Sports Journalism — traveling the world, covering soccer matches and cars going "vroom vroom" on tracks with weird circle shapes.`,
 ];
