@@ -42,11 +42,7 @@ export const timeline = [
     title: "BA, Media / Communications Studies",
     date: "Aug 2025 — May 2027",
   },
-  {
-    org: "Her Campus at FSU",
-    title: "Staff Writer & Social Media Team",
-    date: "Aug 2025 — Present",
-  },
+
   {
     org: "Tallahassee State College",
     title: "AA Degree · Talon Newspaper Staff",
